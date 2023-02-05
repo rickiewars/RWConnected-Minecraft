@@ -12,13 +12,13 @@ De gehele lijst met mods kan je downloaden vanuit de releases.
 Mocht je de mods handmatig willen installeren, zijn alle mods opgenoemd in drie verschillende categorieën.
 
 ## Aangeraden installatie methode:
-Download en installeer [ATLauncher](https://atlauncher.com/downloads).
-Start ATLauncher, ga naar accounts, klik op `Login with Microsoft` en login met je Minecraft account.
-Op de [releases](https://github.com/rickiewars/RWConnected-Minecraft/releases) pagina, download het `RWConnected.<version>.quilt.mrpack` bestand.
-In ATLauncher, ga naar `Instances` en links bovenin, klik op `Import`.
-Klik op `Browse`, navigeer naar de map waar je het `.mrpack` bestand hebt gedownload en importeer het bestand.
-Geef de instance een naam en klik op Install.
-Na de installatie voltooid is, kan je het spel starten door op `play` te klikken.
+- Download en installeer [ATLauncher](https://atlauncher.com/downloads).
+- Start ATLauncher, ga naar accounts, klik op `Login with Microsoft` en login met je Minecraft account.
+- Op de [releases](https://github.com/rickiewars/RWConnected-Minecraft/releases) pagina, download het `RWConnected.<version>.quilt.mrpack` bestand.
+- In ATLauncher, ga naar `Instances` en links bovenin, klik op `Import`.
+- Klik op `Browse`, navigeer naar de map waar je het `.mrpack` bestand hebt gedownload en importeer het bestand.
+- Geef de instance een naam en klik op Install.
+- Na de installatie voltooid is, kan je het spel starten door op `play` te klikken.
 
 ### Updates
 ATLauncher maakt het zeer gemakkelijk om mods te updaten.
