@@ -6,12 +6,7 @@ AtLauncher wordt als beste launcher beoordeeld over het algemeen maar maakt voor
 Atlauncher is optioneel maar maakt het mogelijk om een release van deze repository direct te importeren.
 Als alternatief kan je ook zelf de benodigde mods downloaden.
 
-# Mod list
-In principe kan je in de Minecraft server zonder mods maar voor de beste ervaringen raad ik een aantal mods aan.
-De gehele lijst met mods kan je downloaden vanuit de releases.
-Mocht je de mods handmatig willen installeren, zijn alle mods opgenoemd in drie verschillende categorieën.
-
-## Aangeraden installatie methode:
+# Installatie:
 - Download en installeer [ATLauncher](https://atlauncher.com/downloads).
 - Start ATLauncher, ga naar accounts, klik op `Login with Microsoft` en login met je Minecraft account.
 - Op de [releases](https://github.com/rickiewars/RWConnected-Minecraft/releases) pagina, download het `RWConnected.<version>.quilt.mrpack` bestand.
@@ -20,13 +15,18 @@ Mocht je de mods handmatig willen installeren, zijn alle mods opgenoemd in drie 
 - Geef de instance een naam en klik op Install.
 - Na de installatie voltooid is, kan je het spel starten door op `play` te klikken.
 
-### Updates
+## Updates
 ATLauncher maakt het zeer gemakkelijk om mods te updaten.
 - In ATLauncher, open het `Instances` tab.
 - Onder de instance die je wilt updaten, klik op `edit mods`.
 - In het nieuwe scherm, selecteer alle mods met het bovenste vinkje en klik op `Check for updates`.
 - ATLauncher zal nu elke mod checken en als nieuwe updates beschikbaar zijn, jou de optie geven een nieuwe update te selecteren en installeren.
   - Zorg voordat je echt de mod updated, dat de versie compatible is met je huidige minecraft versie.
+
+# Mod list
+In principe kan je in de Minecraft server zonder mods maar voor de beste ervaringen raad ik een aantal mods aan.
+De gehele lijst met mods kan je downloaden vanuit de releases.
+Mocht je de mods handmatig willen installeren, zijn alle mods opgenoemd in drie verschillende categorieën.
 
 ## Modding API
 Als modloader gebuik ik [Quilt](https://quiltmc.org/en/).
